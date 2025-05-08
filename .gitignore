@@ -1,2 +1,7 @@
 .env
 venv/
+__pycache__/
+db.ipynb
+piper_linux_x86_64.tar.gz
+vosk-model-small-en-in-0.4.zip
+test.wav
